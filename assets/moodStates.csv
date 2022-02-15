@@ -1,0 +1,17 @@
+StateName,PNGFilename,TransitionText,NewState
+Determined,assets/determined.png,Tried cooking and burned food,Hangry
+Determined,assets/determined.png,Found a bug in your code,Confused
+Hangry,assets/hangry.png,Buy dinner,Calm
+Hangry,assets/hangry.png,Watch cooking video,Determined
+Confused,assets/confused.png,Solve the problem,Ecstatic
+Confused,assets/confused.png,Can't solve the problem,Stressed
+Tired,assets/tired.png,Sleep for 12 hours,Calm
+Tired,assets/tired.png,Too tired to eat,Hangry
+Calm,assets/calm.png,Start homework early,Determined
+Calm,assets/calm.png,Pop quiz!,Shocked
+Shocked,assets/shocked.png,No worries you paid attention in class,Calm
+Shocked,assets/shocked.png,You didn't pay attention in class at all,Confused
+Stressed,assets/stressed.png,Stay up late doing homework,Tired
+Stressed,assets/stressed.png,Watch Netflix,Calm
+Ecstatic,assets/ecstatic.png,Reward yourself with a break,Calm
+Ecstatic,assets/ecstatic.png,Move on to other work,Determined
